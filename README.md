@@ -1,3 +1,10 @@
+A frontend UI of airbnb build using react js and tailwind,have created components navbar,filter & rentals.
+
+<img width="1433" alt="Screenshot 2023-05-25 at 2 11 42 AM" src="https://github.com/nsarojini/airbnb-react/assets/115941802/f0f33663-8d73-41ed-8a55-8127b85243ac">
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
